@@ -15,11 +15,11 @@
         <h1>Новая статья</h1>
         <form action="createArticle" method="POST">
             Заголовок:<br>
-            <input type="text" name="title">
+            <input type="text" name="title"><br>
             Текст статьи<br>
-            <input type="text" name="text">
+            <input type="text" name="text"><br>
             Автор<br>
-            <input type="text" name="author">
+            <input type="text" name="author"><br>
             <br>
             <input type="submit" value="Создать">
             
